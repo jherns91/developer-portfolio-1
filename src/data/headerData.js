@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import profileImg from '../assets/images/profile2.jpg'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Jorge Hernández',
+    title: "Frontend and Backend Developer",
+    desciption:"¡Hola! Soy Jorge Hernández, un apasionado del desarrollo y la tecnología. Me encanta aprender, experimentar y enfrentar nuevos desafíos cada día. Con una mentalidad autodidacta y una gran capacidad de adaptación, siempre estoy explorando herramientas y tendencias para crear soluciones innovadoras. Disfruto resolviendo problemas complejos y transformando ideas en realidades funcionales. Mi objetivo es hacer que la tecnología sea más accesible y eficiente para todos. Si buscas a alguien con energía, creatividad y un enfoque práctico para el desarrollo, ¡hablemos!",
+    image: profileImg,
     resumePdf: resume
 }
